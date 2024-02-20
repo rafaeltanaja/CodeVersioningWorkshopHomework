@@ -1,1 +1,1 @@
-Danni said merging is combining two branch into one. 
+Danni said merging is combining two branch into one. Merging can help developers to work on different problem simultanously.
