@@ -1,1 +1,1 @@
-Danni said merging is combining two branch into one. Merging can help developers to work on different problem simultanously. There are also problem when merging called 'conflicts'. Conflicts occur when there are changes in the same line of code.
+Danni said merging is combining two branch into one. Merging can help developers to work on different problem simultanously. There are also problem when merging called 'conflicts'. Conflicts occur when there are changes in the same line of code. It can be solved manually by the developers.
