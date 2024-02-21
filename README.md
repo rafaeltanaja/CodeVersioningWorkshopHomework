@@ -11,7 +11,7 @@ Git was created by Linus (creator of Linux), Git is a version control system tha
 6. $ git reset —hard reset -> with no preserved file
 7. $ git diff -> to compare
 
-**Branching and Merging**
+**Branching and Merging**<br>
 Branching is a method where Git creates a copy of the main program that can be used as an experiment that will not affect the main program.
 
 Merging is a method where combining 2 branch into 1 branch.
@@ -22,7 +22,7 @@ Common command line for Branching and Merging
 3. $ git branch -d ‘filename’ -> to delete branch
 4. $ git checkout main; $ git merge ‘filename’ -> to merge branch
 
-**Remote Repository**
+**Remote Repository** <br>
 Remote repository is a repository that are hosted by another server (ex: GitHub), and it helps developer to access the same file.
 
 Common command line for Remote Repository
@@ -30,8 +30,8 @@ Common command line for Remote Repository
 2. Git fetch -> Tidak apply semua perubahan
 3. Git Pull (Git Fetch + Merge) -> Apply semua perubahan
 
-**Identification and Verification**
+**Identification and Verification**<br>
 People can impersonate another people to do bad things to your code, GitHub recognize this problems and there is a solution called Commit Signing. It helps to verify the identity of a person so that all commit, request, etc, can be monitored perfectly.
 
-**Conclusion**
+**Conclusion**<br>
 Git and Github really helpful for developers to create, modify, and maintain their programs.
